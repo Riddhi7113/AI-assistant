@@ -1,7 +1,7 @@
 import streamlit as st
 from api_call import getResponse  
 
-st.title("Chubby (Your Ai Assistant)")
+st.title("Chubby🤖")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
