@@ -10,7 +10,6 @@ This AI Assistant is a Streamlit application that allows you to interact with a 
 ## Requirements:
 - **Python**: Python 3.6 or later.
 - **Streamlit**: Install with `pip install streamlit`.
-- **Additional Libraries**: May be needed depending on the chosen model (OpenAI, Gemini, etc.).
 
 ## Setup:
 1. **Clone or Download**: Obtain the project files.
